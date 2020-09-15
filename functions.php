@@ -2,5 +2,5 @@
 
 function codelex(): string
 {
-    return 'codelex';
+    return 'codelex' . PHP_EOL;
 }
